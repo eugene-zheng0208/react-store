@@ -1,0 +1,46 @@
+.product {
+    width: 200px;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+    background: palegoldenrod;
+    border: 5px solid lightgray;
+    display: inline-block;
+}
+.prodImgPlaceHolder {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    height: 25%;
+}
+.prodInfo {
+    text-align: center;
+    margin-top: 10px;
+}
+.prodInfo_brand {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.prodInfo_product {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.prodInfo_packing {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 13px;
+}
+.prodInfo_price {
+    text-align: center;
+    margin-top: 30px;
+}
+.prodButtons {
+    position:relative;
+    margin-top: 50px;
+}
+.prodButtons div {
+    text-align: center;
+}
